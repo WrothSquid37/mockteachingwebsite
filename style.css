@@ -30,6 +30,10 @@ body {
   color: white;
 }
 
+.emaillist {
+  background-color: red;
+}
+
 .emailitem  {
   padding: 15px;
 }
