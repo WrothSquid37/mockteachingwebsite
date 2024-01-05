@@ -8,7 +8,7 @@ email2.style.display = 'none';
 email3.style.display = 'none';
 email4.style.display = 'none';
 
-function displayEmail(int index) {
+function displayEmail(index) {
     hideAllEmails();
     switch(index) {
       case 0:
