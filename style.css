@@ -30,7 +30,7 @@ body {
   color: white;
 }
 
-.emaillist {
+#emaillist {
   list-style-type: none;
 }
 
