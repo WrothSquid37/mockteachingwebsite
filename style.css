@@ -30,6 +30,12 @@ body {
   color: white;
 }
 
+.emaillist {
+  margin-left:25%;
+  padding:1px 16px;
+  height:500px;
+}
+
 #reallink {
   color: blue;
   text-decoration: underline;
