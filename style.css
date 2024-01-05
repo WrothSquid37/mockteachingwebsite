@@ -31,12 +31,15 @@ body {
 }
 
 .emaillist {
-  background-color: red;
+  list-style-type: none;
 }
 
 .emailitem  {
   padding: 15px;
+  border-top: 2px solid gainsboro;
+  border-bottom: 2px solid gainsboro;
 }
+
 
 #reallink {
   color: blue;
