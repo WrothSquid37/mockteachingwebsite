@@ -14,7 +14,7 @@ body {
 }
 
 .menuitemcontainer .menuitem {
-  display: none;
+  display: block;
   color: #000;
   padding: 8px 16px;
   text-decoration: none;
